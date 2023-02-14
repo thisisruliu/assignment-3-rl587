@@ -1,0 +1,16 @@
+---
+title: "index"
+author: "Ru Liu"
+date: "2023-02-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* My name is Ru Liu (https://github.com/thisisruliu)
+* My collaborator's name is Meg Branine (https://github.com/megasymbiont)
+
+![cute dogs](https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2021/10/CLI327.labradors.ChocolateLabsMP_068_FrontCover-1-920x920.jpg)
+

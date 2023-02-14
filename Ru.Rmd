@@ -1,0 +1,15 @@
+---
+title: "Ru"
+author: "Ru Liu"
+date: "2023-02-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* PhD student in Community Nutrition at Cornell University
+* Interested in mixed-methods, community-engaged research 
+* BS and MS in Nutrition from the University of Illinois at Urbana-Champaign 
+* Enjoys running, hiking, and quality time with loved ones.
